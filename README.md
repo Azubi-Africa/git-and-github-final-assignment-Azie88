@@ -20,9 +20,9 @@ The below table must contain the details of the repositories you will create, fi
 
 |  | Project's Name | Description    | GitHub's Link  |
 |:--:|:--------------:|:--------------:|:--------------:|
-| 1 |  -             |  -             | https://       |
-| 2 |  -             |  -             | https://       |
-| 3 |  -             |  -             | https://       |
+| 1 |  -Caesar Cipher            |  -encrypt and decrypt user input with a left shift of 3 on the alphabet             | https://https://github.com/Azie88/Caesar-cipher       |
+| 2 |  -SGD Classifier             |  -Stochastic Gradient Descent (SGD) Classifier ML model that classifies images with the MNIST dataset from sklearn             | https://https://github.com/Azie88/SGD-Classifier       |
+| 3 |  -Mortgage Calculator             |  -Simple python program that calculates monthly payments for a mortgage.             | https://https://github.com/Azie88/Mortgage-Calculator       |
 
 **NB**: `Do not modify` the general structure of this table above to avoid issue of evaluation, just fill the rows .
 
